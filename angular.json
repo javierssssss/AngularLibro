@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "LibroAngular"
+  "defaultProject": "LibroAngular",
+  "cli": {
+    "analytics": "d636aff0-f3c5-4494-bf79-a51e8fe28994"
+  }
 }
